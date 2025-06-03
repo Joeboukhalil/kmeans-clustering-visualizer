@@ -5,7 +5,6 @@ This project uses Python and scikit-learn to perform K-Means clustering on synth
 ## How to Run
 
 1. Install dependencies:
-```bash
 pip install -r requirements.txt
 
 ## Run the script
